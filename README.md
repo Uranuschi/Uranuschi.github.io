@@ -7,3 +7,5 @@
   
 >裡面有吐司的成長經歷唷  
 >保證有趣又激勵人心！
+
+![Image of Yaktocat](https://lh3.googleusercontent.com/proxy/1VMOXZ_bWe0ybmZZAtfOJeqcfncICAaZ7rdNP7OSx8TDs9qA9vZE0Ev7DoZkTbtogR4AAYuvT_8shXGyv5jZQ4LDVPapuFKdvrqXUXvZZJOAKd3ZyA)
