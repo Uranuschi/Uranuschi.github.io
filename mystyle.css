@@ -7,6 +7,10 @@ body {
 	background-size: 100px auto; /*設定背景圖大小*/
 }
 
+h1 {
+    text-shadow: 3px 3px 40px #000000; /*設定h1的文字陰影*/
+}
+
 div h3 {
     color: rgb(110, 29, 29); /*設定div中h3的文字顏色*/
     background-color: rgb(253, 238, 211); /*設定div中h3的背景顏色*/
